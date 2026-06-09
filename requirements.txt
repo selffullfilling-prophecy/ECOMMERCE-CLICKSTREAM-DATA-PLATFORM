@@ -1,0 +1,5 @@
+pyspark 
+python-dotenv 
+pandas
+jupyter
+ipykernel
